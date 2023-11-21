@@ -1,1 +1,2 @@
 The test execution reports are stored here.
+Note: For best graphical experience open the .html files in IE 10 or Chrome.
