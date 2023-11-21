@@ -1,0 +1,2 @@
+This file contains all the test cases as per test plan or user document.
+The content includes all the positive and negative test case scenarios.
